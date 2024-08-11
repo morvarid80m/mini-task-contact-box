@@ -25,6 +25,7 @@ body {
 
 .cart {
      padding: 2rem;
+      cursor: pointer;
      transform: translateX(1.8rem);
 }
 
